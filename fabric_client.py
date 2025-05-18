@@ -60,9 +60,6 @@ class FabricClient:
         else:
             print(f"Error: {response.status_code} - {response.text}")
             return None
-        
-    def test(self):
-        return None
 
 # Execution starts here
 if __name__ == "__main__":
