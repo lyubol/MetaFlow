@@ -1,0 +1,4 @@
+azure-identity==1.15
+semantic-link
+requests
+python-dotenv
